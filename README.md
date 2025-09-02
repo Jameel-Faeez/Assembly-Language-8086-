@@ -1,7 +1,7 @@
 8086 ATM System
 A fully functional ATM (Automated Teller Machine) system simulator implemented in x86 Assembly language (8086) using the EMU8086 IDE. This project demonstrates core low-level programming concepts, including memory management, input/output handling, and conditional logic in an assembly environment.
 
-📖 Table of Contents
+//📖 Table of Contents
 Features
 
 Project Structure
